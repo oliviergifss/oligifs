@@ -1,18 +1,18 @@
 let modelos = [
       {
-            img: 'https://i.postimg.cc/kGHwrPC6/hola-bg-330.jpg',
+            img: 'https://i.postimg.cc/FRzZQRDn/XNoBObb.png',
             type: 'background'
       },
       {
-            img: 'https://i.postimg.cc/kGHwrPC6/hola-bg-330.jpg',
+            img: 'https://i.postimg.cc/FRzZQRDn/XNoBObb.png',
             type: 'background'
       },
       {
-            img: 'https://i.postimg.cc/nz00kQw1/inner-hola-330.jpg',
+            img: 'https://i.postimg.cc/QxYKRbRs/B6-VEQfu-Fi.jpg',
             type: 'pcback'
       },
       {
-            img: 'https://i.postimg.cc/nz00kQw1/inner-hola-330.jpg',
+            img: 'https://i.postimg.cc/SNRJ79jP/QEuFDg5.png',
             type: 'pcback'
       },
       
