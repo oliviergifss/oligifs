@@ -1,10 +1,20 @@
 let modelos = [
       {
-            img: 'https://i.postimg.cc/kGHwrPC6/hola-bg-330.jpg',
+            img: 'https://img.xatblog.net/image/rE0wqq3Sz7D.png',
             type: 'background'
       },
       {
-            img: 'https://i.postimg.cc/kGHwrPC6/hola-bg-330.jpg',
+            img: 'https://img.xatblog.net/image/MHASZsLDw.jpg',
+            type: 'background'
+      },
+      {
+            
+            img: 'https://img.xatblog.net/image/6naLTZaBR5.jpg',
+            type: 'background'
+      },
+      {
+            
+            img: 'https://img.xatblog.net/image/HN1qhWwjgkV.jpg',
             type: 'background'
       },
       {
